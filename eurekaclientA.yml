@@ -1,5 +1,5 @@
 info:
-  configuration: Read From Config Service eurekaclientA.yml
+  configuration: Read From Config Service eurekaclientA.yml 2016
   defaultmessage: this is defaultmessage 读取默认profiles eurekaclientA.yml
 spring:
   h2:
