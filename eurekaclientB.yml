@@ -10,8 +10,8 @@ spring:
         schema: import.sql
         name: database
         url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=utf-8
-        username: mobile
-        password: mobile
+        username: guanqinggang1
+        password: guanqinggang1
         # 使用druid数据源
         type: com.alibaba.druid.pool.DruidDataSource
         driver-class-name: com.mysql.jdbc.Driver
